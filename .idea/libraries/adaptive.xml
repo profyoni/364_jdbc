@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="adaptive">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../jdbc1/sqljdbc_7.2/enu/mssql-jdbc-7.2.1.jre8.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
